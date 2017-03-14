@@ -1,5 +1,8 @@
 _repo: Emile_5427
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rousseau, Jean-Jacques
@@ -19,6 +22,8 @@ description: "Emile, or On Education or Émile, or Treatise on Education (French
   \ and was publicly burned in 1762, the year of its first publication. During the\
   \ French Revolution, Emile served as the inspiration for what became a new national\
   \ system of education.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5427#Emile
 gutenberg_bookshelf: Banned Books from Anne Haight's list
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
